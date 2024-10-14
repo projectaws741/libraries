@@ -7,7 +7,7 @@ pipeline
         {
             steps
             {
-                git 'https://github.com/intelliqittrainings/maven.git'
+                git 'https://github.com/projectaws741/java-17-maven-project.git'
             }
         }
 	stage('ContinuousBuild_loans')
